@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://egosphe.re/things/a-test-thing/</loc>
+    <loc>https://thisisjaid.github.io/things/a-test-thing/</loc>
     <lastmod>2018-10-18T11:54:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://egosphe.re/randr/a-test-rambling/</loc>
+    <loc>https://thisisjaid.github.io/randr/a-test-rambling/</loc>
     <lastmod>2018-10-18T10:54:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://egosphe.re/tidbits/a-test-tidbit/</loc>
+    <loc>https://thisisjaid.github.io/tidbits/a-test-tidbit/</loc>
     <lastmod>2018-10-18T10:54:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://egosphe.re/categories/</loc>
+    <loc>https://thisisjaid.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://egosphe.re/</loc>
-    <lastmod>2018-10-18T11:54:47+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://egosphe.re/randr/</loc>
-    <lastmod>2018-10-18T10:54:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://egosphe.re/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://egosphe.re/things/</loc>
+    <loc>https://thisisjaid.github.io/</loc>
     <lastmod>2018-10-18T11:54:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://egosphe.re/tidbits/</loc>
+    <loc>https://thisisjaid.github.io/randr/</loc>
+    <lastmod>2018-10-18T10:54:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thisisjaid.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thisisjaid.github.io/things/</loc>
+    <lastmod>2018-10-18T11:54:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thisisjaid.github.io/tidbits/</loc>
     <lastmod>2018-10-18T10:54:37+00:00</lastmod>
     <priority>0</priority>
   </url>
