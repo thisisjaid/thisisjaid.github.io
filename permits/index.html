@@ -22,7 +22,7 @@
       renderer.setSize( window.innerWidth, window.innerHeight );
       document.body.appendChild( renderer.domElement );
 
-      loader.load( 'models/permits.gltf', function ( gltf ) {
+      loader.load( 'models/permits.glb', function ( gltf ) {
 	      scene.add( gltf.scene );
       }, undefined, function ( error ) {
 	    console.error( error );
