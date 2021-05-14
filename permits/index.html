@@ -37,9 +37,11 @@
       loader.load( 'models/permits.gltf', function ( gltf ) {
         var object = gltf.scene
         object.traverse((node) => {
-          if (!node.isMesh) return;
-          node.material.transparency = true;
-          node.material.opacity = 0.25
+          if (node.isMesh) {
+            node.material.depthTest = false;
+            node.material.transparent = true;
+            node.material.opacity = 0.25;
+          }
         });      
         scene.add( gltf.scene );
       }, undefined, function ( error ) {
