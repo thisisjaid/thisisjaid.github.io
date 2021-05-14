@@ -24,6 +24,9 @@
       const light = new THREE.HemisphereLight( 0xffffbb, 0x080820, 1 );
 
       var renderer = new THREE.WebGLRenderer();
+      THREE.WebGLRenderer({
+        antialias: true
+      });
       renderer.setSize( window.innerWidth, window.innerHeight );
       renderer.setClearColor(0xffffff);
 
